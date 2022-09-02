@@ -6,6 +6,7 @@ inserted inside the stack is removed first.
 You can think of the stack data structure as the pile of car tires on top of another. 
 
 ![](src/stack.png)
+
 Figure1: Stack representation almost "similar" to a pile of car tires. 
 
 Here you can:
