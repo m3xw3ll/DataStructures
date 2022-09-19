@@ -12,7 +12,7 @@ I will update this repo from time to time, please check the overview for more in
 ### Data Structures
 - [Stack](https://github.com/m3xw3ll/DataStructures/blob/master/Stack.md) ✅
 - Queue ❌ 
-- Linked List ❌ 
+- [Linked List](https://github.com/m3xw3ll/DataStructures/blob/master/Linked_List.md) ✅
 
 ### Tree based DSA
 - [Binary Search Tree](https://github.com/m3xw3ll/DataStructures/blob/master/BinarySearchTree.md) ✅
