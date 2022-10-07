@@ -21,8 +21,8 @@ I will update this repo from time to time, please check the overview for more in
 - B+ Tree ❌ 
 - Red-Black Tree ❌ 
 
-### Sorting and Searching Algorithms
-Please check my [SortingAlgorithmsVisualizer](https://github.com/m3xw3ll/SortingAlgorithmsVisualizer) for more information.
+### [Sorting and Searching Algorithms](https://github.com/m3xw3ll/DataStructures/blob/master/SortingSearching.md)
+
 
 
 
